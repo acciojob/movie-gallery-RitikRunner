@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.col-sm-1{
+	column-span:1;
+}
+.col-sm-2{
+	column-span:2;
+}
+
+.col-sm-4{
+	column-span:4;
+}
+
+.col-sm-12{
+	column-span:12;
+}
+.image{
+	height:100px;
+	width:100px;
+}
+.container-fluid{
+	display: flex;
+	padding: space-between;
+}
+
